@@ -100,3 +100,15 @@ headers = {
 response = requests.get(url, headers=headers)
 print(response.status_code)
 print(response.json())
+response_data = response.json()
+
+# -----------------------------
+# Extract and print product keys
+# -----------------------------
+if "data" in response_data:
+    for i, product in enumerate(response_data["data"], start=1):
+        print(f"\nProduct {i} keys:")
+        for key in product.keys():
+            print(" -", key)
+else:
+    print("No 'data' found in the response.")
