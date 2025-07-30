@@ -1,0 +1,1172 @@
+{
+    "data": [
+        {
+            "productId": "0001111042707",
+            "upc": "0001111042707",
+            "productPageURI": "/p/kroger-low-fat-buttermilk/0001111042707?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "25",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "6",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Low Fat Buttermilk",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111042707"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111042707"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111042707"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111042707"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111042707"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111042707"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111042707"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111042707"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111042707"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111042707"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111042707"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111042707"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111042707"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111042707"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111042707"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111042707",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 1.49,
+                        "promo": 0
+                    },
+                    "size": "1 pt",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "2.63",
+                "height": "7.56",
+                "width": "2.63"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111043266",
+            "upc": "0001111043266",
+            "productPageURI": "/p/kroger-grade-a-chocolate-milk/0001111043266?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "25",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "3"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Grade A Chocolate Milk",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111043266"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111043266"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111043266"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111043266"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111043266"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111043266"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111043266"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111043266"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111043266"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111043266"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111043266"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111043266"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111043266"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111043266"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111043266"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111043266",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 2.99,
+                        "promo": 0
+                    },
+                    "size": "1/2 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "4.0",
+                "height": "9.25",
+                "width": "4.0"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111082556",
+            "upc": "0001111082556",
+            "productPageURI": "/p/kroger-lactose-free-2-reduced-fat-milk/0001111082556?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "23",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "3",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Lactose Free 2% Reduced Fat Milk",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111082556"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111082556"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111082556"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111082556"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111082556"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111082556",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.59,
+                        "promo": 0
+                    },
+                    "size": "1/2 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "4.0",
+                "height": "9.75",
+                "width": "4.0"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111042315",
+            "upc": "0001111042315",
+            "productPageURI": "/p/kroger-fat-free-skim-milk/0001111042315?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "32",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "4",
+                    "side": "R",
+                    "shelfNumber": "2",
+                    "shelfPositionInBay": "1"
+                },
+                {
+                    "bayNumber": "32",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "4",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "UNITED STATES",
+            "description": "Kroger\u00ae Fat Free Skim Milk",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111042315"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111042315"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111042315"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111042315"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111042315"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111042315"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111042315"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111042315"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111042315"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111042315"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111042315"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111042315"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111042315"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111042315"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111042315"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111042315",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.19,
+                        "promo": 0
+                    },
+                    "size": "1 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "6.15",
+                "height": "9.9",
+                "width": "6.3"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111050573",
+            "upc": "0001111050573",
+            "productPageURI": "/p/kroger-1-low-fat-chocolate-milk-jug/0001111050573?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "25",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "4",
+                    "side": "R",
+                    "shelfNumber": "1",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae 1% Low Fat Chocolate Milk Jug",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111050573"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111050573"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111050573"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111050573"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111050573"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111050573"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111050573"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111050573"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111050573"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111050573"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111050573"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111050573"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111050573"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111050573"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111050573"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111050573",
+                    "inventory": {
+                        "stockLevel": "LOW"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.89,
+                        "promo": 0
+                    },
+                    "size": "1 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "6.0",
+                "height": "9.8",
+                "width": "6.0"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111042712",
+            "upc": "0001111042712",
+            "productPageURI": "/p/kroger-whole-buttermilk/0001111042712?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "25",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "5",
+                    "shelfPositionInBay": "3"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Whole Buttermilk",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111042712"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111042712"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111042712"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111042712"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111042712"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111042712"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111042712"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111042712"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111042712"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111042712"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111042712"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111042712"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111042712"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111042712"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111042712"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111042712",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 4.29,
+                        "promo": 0
+                    },
+                    "size": "1/2 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "4.0",
+                "height": "9.75",
+                "width": "4.0"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111041700",
+            "upc": "0001111041700",
+            "productPageURI": "/p/kroger-2-reduced-fat-milk/0001111041700?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "30",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "4",
+                    "side": "R",
+                    "shelfNumber": "2",
+                    "shelfPositionInBay": "1"
+                },
+                {
+                    "bayNumber": "30",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "4",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "1"
+                },
+                {
+                    "bayNumber": "29",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "1"
+                },
+                {
+                    "bayNumber": "29",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "2",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae 2% Reduced Fat Milk",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111041700"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111041700"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111041700"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111041700"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111041700"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/back/0001111041700"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111041700"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111041700"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111041700"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111041700"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111041700",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.19,
+                        "promo": 0
+                    },
+                    "size": "1 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "6.2",
+                "height": "9.9",
+                "width": "6.2"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111008163",
+            "upc": "0001111008163",
+            "productPageURI": "/p/kro-lactose-free-ff-milk/0001111008163?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "24",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "3"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kro Lactose Free Ff Milk",
+            "images": [
+                {
+                    "perspective": "back",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/back/0001111008163"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111008163"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111008163"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111008163"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111008163"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111008163",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.59,
+                        "promo": 0
+                    },
+                    "size": "1 lb",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "3.0",
+                "height": "9.0",
+                "width": "2.2"
+            },
+            "temperature": {
+                "indicator": "Ambient",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111085333",
+            "upc": "0001111085333",
+            "productPageURI": "/p/kroger-lactose-free-vitamin-d-milk/0001111085333?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "23",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "3",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "2"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Lactose Free Vitamin D Milk",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111085333"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111085333"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111085333"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111085333"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111085333"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111085333",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 3.59,
+                        "promo": 0
+                    },
+                    "size": "1/2 gal",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "4.0",
+                "height": "9.75",
+                "width": "4.0"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111042705",
+            "upc": "0001111042705",
+            "productPageURI": "/p/kroger-cultured-lowfat-buttermilk/0001111042705?cid=dis.api.tpi_products-api_20240521_b:all_c:np_t:testv1-bbc7twz6",
+            "aisleLocations": [
+                {
+                    "bayNumber": "25",
+                    "description": "DAIRY",
+                    "number": "100",
+                    "numberOfFacings": "2",
+                    "side": "R",
+                    "shelfNumber": "5",
+                    "shelfPositionInBay": "1"
+                }
+            ],
+            "brand": "Kroger",
+            "categories": [
+                "Dairy"
+            ],
+            "countryOrigin": "null",
+            "description": "Kroger\u00ae Cultured Lowfat Buttermilk",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111042705"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111042705"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111042705"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111042705"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111042705"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111042705"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111042705"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111042705"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111042705"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111042705"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111042705"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111042705"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111042705"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111042705"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111042705"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111042705",
+                    "inventory": {
+                        "stockLevel": "HIGH"
+                    },
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "price": {
+                        "regular": 1.99,
+                        "promo": 0
+                    },
+                    "size": "32 fl oz",
+                    "soldBy": "UNIT"
+                }
+            ],
+            "itemInformation": {
+                "depth": "3.15",
+                "height": "9.75",
+                "width": "3.15"
+            },
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "start": 0,
+            "limit": 10,
+            "total": 26
+        }
+    }
+}
