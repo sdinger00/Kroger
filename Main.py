@@ -9,7 +9,6 @@ authorization_header = f"Authorization: Basic {encoded}"
 
 print(authorization_header)
 
-
 ##get access token
 
 url = "https://api-ce.kroger.com/v1/connect/oauth2/token"
