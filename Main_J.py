@@ -14,4 +14,8 @@ brand = "Kroger"
 term = "milk"
 location_id = "03500577"
 
-token_manager.get_product_details(brand, term, location_id)
+zip_code = 75039
+
+output = token_manager.get_closest_location(zip_code)
+
+print(output["locationId"])

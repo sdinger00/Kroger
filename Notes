@@ -1,0 +1,13 @@
+1.A prompt that asks the user questions like dietary requirements and also what you want to eat etc.
+2.Send that info to chat gpt with the api and ask it to come up with as many recipes as possible based on the response
+3.User picks a recipe from the options
+4. We take all the items in the recipe and find the closest Kroger store that has all or as many of the items as possible
+    i. get all the items in the meal in a list
+    ii. find the closest kroger to the user using their zip code
+    iii. find the most expensive and cheapest, then find an item with a price between those two if there are that many options
+    iv. return up to 3 different options for the items with info like the calories, isle number etc.
+5. Once all the items options are found, create a way for the user to select the items it wants
+6. Create a final output that gives the user the store address, items and info (isle, calories etc), final recipe and instructions
+
+Train our ChatGPT agent with the kroger data so that it can match the wording that kroger uses and so it can known what items kroger has
+

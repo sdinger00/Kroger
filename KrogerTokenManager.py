@@ -1,9 +1,9 @@
 ##create class that refreshes token
 import json
 import time
+from typing import Any
 
 import requests
-
 
 class KrogerTokenManager:
     def __init__(self, client_id, client_secret, scope, auth_url):
@@ -34,46 +34,65 @@ class KrogerTokenManager:
             "scope": self.scope
         }
 
-        response = requests.post(self.auth_url, headers=headers, data=body)
-        response.raise_for_status()  # Raise an error if request failed
+        resp = requests.post(self.auth_url, headers=headers, data=body)
+        resp.raise_for_status()  # Raise an error if request failed
 
-        data = response.json()
+        data = resp.json()
         self.token = data["access_token"]
         self.token_expiry = time.time() + data["expires_in"] - 60  # refresh 1 min before actual expiry
 
         return self.token
 
-    def get_locations(self, zip_code, num_of_location):
-        url = f"https://api-ce.kroger.com/v1/locations?filter.zipCode.near={zip_code}&filter.limit={num_of_location}"
+    def get_locations(self, zip_code, num_of_locations):
+        url = f"https://api-ce.kroger.com/v1/locations?filter.zipCode.near={zip_code}&filter.limit={num_of_locations}"
         headers = {
             "Accept": "application/json",
             "Authorization": f"Bearer {self.get_token()}"
         }
 
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            data = response.json()
+        resp = requests.get(url, headers=headers)
+        if resp.status_code == 200:
+            return resp.json()
 
-            # Write to a JSON file
+        else:
+            print(f"Request failed with status code {resp.status_code}")
+            return None
+
+    def get_closest_location(self, zip_code):
+        data = self.get_locations(zip_code, 1)
+
+        return data["data"][0]
+
+    def get_locations_as_output(self, zip_code, num_of_locations):
+        data = self.get_locations(zip_code, num_of_locations)
+
+        # Write to a JSON file
+        if data is not None:
             with open('outputs\\locations.json', 'w') as f:
                 json.dump(data, f, indent=4)
+        else :
+            print(f"Unable to get locations as output")
 
-        else:
-            print(f"Request failed with status code {response.status_code}")
-
-    def get_product_details(self, brand, term, location_id):
-        url = f"https://api-ce.kroger.com/v1/products?filter.brand={brand}&filter.term={term}&filter.locationId={location_id}"
+    def get_product_details(self, term, location_id):
+        url = f"https://api-ce.kroger.com/v1/products?filter.brand=Kroger&filter.term={term}&filter.locationId={location_id}"
         headers = {
             "Accept": "application/json",
             "Authorization": f"Bearer {self.get_token()}"
         }
 
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            data = response.json()
-
-            # Write to a JSON file
-            with open(f'outputs\\{brand}_{term}_{location_id}_details.json', 'w') as f:
-                json.dump(data, f, indent=4)
+        resp = requests.get(url, headers=headers)
+        if resp.status_code == 200:
+            return resp.json()
         else:
-            print(f"Request failed with status code {response.status_code}")
+            print(f"Request failed with status code {resp.status_code}")
+            return None
+
+    def get_product_details_as_output(self, term, location_id):
+        data = self.get_product_details(term, location_id)
+
+        # Write to a JSON file
+        if data is not None:
+            with open(f'outputs\\Kroger_{term}_{location_id}_details.json', 'w') as f:
+                json.dump(data, f, indent=4)
+        else :
+            print(f"Unable to get locations as output")
